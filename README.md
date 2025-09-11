@@ -25,10 +25,14 @@ O cartão de links contém:
 📸 **Exemplos de telas:**  
 
 ### 🌞 Modo Claro
-![Modo Claro](./prints/light.png)
+![Modo Claro]
+<img width="1216" height="924" alt="image" src="https://github.com/user-attachments/assets/051aa937-70e6-469b-a002-671d7785edda" />
+
+
 
 ### 🌙 Modo Escuro
-![Modo Escuro](./prints/dark.png)
+![Modo Escuro]
+<img width="1326" height="923" alt="image" src="https://github.com/user-attachments/assets/6b8d8a8e-64f9-4149-9705-bfb227b0c787" />
 
 ---
 
