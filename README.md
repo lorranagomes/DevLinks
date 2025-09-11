@@ -1,32 +1,38 @@
-<h1 align="center"> DevLinks </h1>
+# 🌐 Linktree Pessoal - Lorrana Gomes
 
+Este projeto é uma versão personalizada de um **cartão de links (Linktree)**, desenvolvido com foco em design minimalista e usabilidade.  
+Ele reúne os principais links profissionais e de contato em uma única página, com **modo claro/escuro**.
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
-<p align="center">
-  <img alt="License" src="assets/assets/devlinkss.png">
-</p>
+---
 
 ## 🚀 Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
- Esse projeto foi desenvolvido com as seguintes tecnologias:
+- **HTML e CSS** → Estrutura e estilização da página  
+- **JavaScript** → Alternância entre modo claro e escuro  
+- **Git e Github** → Versionamento e hospedagem  
+- **Figma** → Protótipo e design visual  
 
-- HTML e CSS
-- JavaScript
-- Git e Github
-- Figma
+---
 
 ## 💻 Projeto
+O cartão de links contém:  
+- 👤 Foto de perfil e nome  
+- 🔗 Botões com links (LinkedIn, Github, Portfólio, Contato)  
+- 🌗 Alternância de tema claro/escuro  
+- 📱 Layout responsivo para celular e desktop  
 
-O DevLinks é um agregador de links para usar como cartão de visitas online,  o presente projeto foi realizado por meio do  curso gratuito da plataforma RockStreet.
+📸 **Exemplos de telas:**  
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+### 🌞 Modo Claro
+![Modo Claro](./prints/light.png)
 
-## 🔖 Layout
+### 🌙 Modo Escuro
+![Modo Escuro](./prints/dark.png)
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321).
+---
 
+## ▶️ Como Executar
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/lorranagomes/linktree-clone.git
